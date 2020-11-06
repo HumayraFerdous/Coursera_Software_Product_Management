@@ -1,1 +1,2 @@
 # Coursera_Software_Product_Management
+Ongoing specialization course 
